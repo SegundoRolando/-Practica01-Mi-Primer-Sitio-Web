@@ -1,0 +1,41 @@
+.columnizquierda{
+    width: 49%;
+    float: left;  
+    padding-left: 200px;
+}
+
+.lado2{
+    width: 90%;
+    padding-left: 1%;
+    float: left;
+}
+
+footer{
+    clear: both;
+}
+.Column0{
+    width: 30%;
+    padding-left: 1%;
+    float: left;
+}
+.Column1{
+    width: 30%;
+    padding-left: 1%;
+    float: left;
+}
+.Column2{
+    width: 35%;
+    padding-left: 1%;
+    float: left;
+}
+/* ----------------Ultima Generacion------------------------------------*/
+.columnizquierda1{
+    width: 30%;
+    float: left;  
+    padding-left: 200px;
+}
+.lado2{
+    width: 90%;
+    padding-right: 1%;
+    float: right;
+}

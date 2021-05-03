@@ -1,0 +1,49 @@
+body{
+    background-color:beige;
+}
+nav>div{
+    width: 100%;
+}
+
+.menu{
+ 
+    list-style: none;
+   display: inline;
+}
+.menu{
+    top: 10px;
+}
+.menu>a{
+    color:black;
+    text-decoration: none;
+    padding: 1em;
+    border: black solid 1px;
+   
+}
+
+.lado1{
+    width: 50%;
+    padding-left: 1%;
+    float: left;
+}
+
+
+#imagen2{
+    width: 85% ;
+    height: 60% ;
+    float: right;
+    position: relative;
+    bottom: 500px;
+    right: -600px;
+    
+}
+#imagen2 > img{
+    width: 45%;
+    height: 45%;
+}
+
+
+footer{
+    clear: both;
+}
+
